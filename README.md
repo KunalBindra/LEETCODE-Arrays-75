@@ -58,6 +58,4 @@ public class SortColors {
 * `mid`: Current element
 * `high`: Boundary for 2's
 * Swapping happens only when `nums[mid]` is `0` or `2`
-* Runs in **O(n)** time and **O(1)** space
-
-Let me know if you'd like a version with comments in Hinglish or a step-by-step explanation!
+* Runs in **O(n)** time and **O(1)** space.
